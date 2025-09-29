@@ -1,0 +1,11 @@
+Dependencies
+
+Python 3.9+ – main programming language
+
+ultralytics – YOLOv8 framework for object detection
+
+opencv-python – for video processing and displaying frames
+
+tkinter (built-in with Python) – for file picker dialog
+
+venv (built-in with Python) – for creating isolated virtual environment
